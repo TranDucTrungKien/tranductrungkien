@@ -2,8 +2,8 @@
 
 I am Tran Duc Trung Kien, people call me Tkinzz, a third-year E-commerce student at University of Economics and Law (UEL). I am a tech enthusiast & a marketing automation advocate. Always open to collaborating on projects and innovative ideas in e-commerce and digital marketing. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tran%20Duc%20Trung%20Kien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tranductrungkien/)](https://www.linkedin.com/in/tranductrungkien/)
-[![Instagram Badge](https://img.shields.io/badge/-Tkinzz-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tkinzz_/)](https://www.instagram.com/_tkinzz_/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tran%20Duc%20Trung%20Kien-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tranductrungkien/)](https://www.linkedin.com/in/tranductrungkien/)
+[![Instagram Badge](https://img.shields.io/badge/-Tkinzz-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tkinzz_/)](https://www.instagram.com/_tkinzz_/)
 [![Gmail Badge](https://img.shields.io/badge/-kien060705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kien060705@gmail.com)](mailto:kien060705@gmail.com)
 
 ## ⚡ Technologies
