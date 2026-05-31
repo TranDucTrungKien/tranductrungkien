@@ -1,6 +1,6 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Nice to see you here! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwcDk2dGV0N2pkMXVjaDdzcjRjdmk1ZDJrZjM5NXd2Z2xvd3k2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGvmdlfJ0FtBSwxqA3/giphy.gif" width="50">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Tran Duc Trung Kien, people call me Tkinzz, a third-year E-commerce student at University of Economics and Law (UEL). I am a tech enthusiast & a marketing automation advocate. Always open to collaborating on projects and innovative ideas in e-commerce and digital marketing. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tranductrungkien/(https://www.linkedin.com/in/tranductrungkien/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tkinzz_/)](https://www.instagram.com/_tkinzz_/)
